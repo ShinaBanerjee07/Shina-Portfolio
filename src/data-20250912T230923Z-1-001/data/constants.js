@@ -190,7 +190,7 @@ export const projects = [
     "JWT Auth",
     "Axios"
   ],
-  category: "WEB APP'S",
+  //category: "WEB APP'S",
   github: "https://github.com/ShinaBanerjee07/student-task-manager",
   webapp: "https://student-task-manager-xi.vercel.app/",
 },
